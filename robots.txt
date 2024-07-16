@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://uratorep.github.io/sitemap
+Sitemap: https://uratorep.github.io/app/sitemap
+Sitemap: https://uratorep.github.io/assets/sitemap
+Sitemap: https://uratorep.github.io/css/sitemap
+Sitemap: https://uratorep.github.io/includes/sitemap
+Sitemap: https://uratorep.github.io/item/sitemap
+Sitemap: https://uratorep.github.io/src/sitemap
